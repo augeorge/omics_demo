@@ -4,8 +4,11 @@
 August George, 2023
 
 Demo notebook to explore an OMICS dataset related to diabetes: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE9006 
+- transcriptomics: complete set of RNA transcripts produced by the genome under a certain condition or cell type. 
 
-Notebook goes through different data science processes: 
+
+
+This notebook goes through different data science processes: 
 * problem description - builing a predctive model to classify diabetes state (healthy, type1, type2) from blood samples
 * data collection and preprocessing from the GEO database
 * exploratory data analysis with descriptive statistics
